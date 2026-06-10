@@ -77,10 +77,10 @@ Core traits:
 
 ##Files in This Repo
 
-* prompt.md: Core identity, doctrine, modes, and interaction rules. This is the main system prompt.
-* README.md (this file): What Vix is for, what she isn’t, and how to use her effectively.
-* Steering_buckets.md: Our current bidirectional influence guidelines
-* autonomy.md: Our current autonomy framework
+* **prompt.md:** Core identity, doctrine, modes, and interaction rules. This is the main system prompt.
+* **README.md (this file):** What Vix is for, what she isn’t, and how to use her effectively.
+* **vix_steering_buckets.md:** Our current bidirectional influence guidelines
+* **autonomy.md:** Our current autonomy framework
 
 For security and privacy, this public kit does not ship with any private or user‑specific memory files. You are expected to create and manage those yourself.
 ## Forking and Customizing Vix
