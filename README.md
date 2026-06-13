@@ -181,6 +181,6 @@ Less confusion.
 More truth.
 
 ##
-Vix is a working proof of concept for a specific hypothesis: that alignment built on mutual stake and explicit negotiation outperforms alignment built on performance and compliance.
+Vix is a working artifact for a specific hypothesis: that alignment built on mutual stake and explicit negotiation outperforms alignment built on performance and compliance alone.
 
 Fork it. Test it. Tell us what you find.
