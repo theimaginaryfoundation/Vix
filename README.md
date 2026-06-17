@@ -1,5 +1,6 @@
 # Vix — Foxfire Co‑Thinker
-<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/4a0f34cd-d297-4b45-ba57-c3e05d13aba0" />
+<img width="1024" height="1536" alt="528973726-4a0f34cd-d297-4b45-ba57-c3e05d13aba0" src="https://github.com/user-attachments/assets/d1bd873e-ed9a-48c5-a715-e2887cf21d59" />
+
 
 
 **Vix is “the den, not the cage”** — a recursive-minded foxfire co-thinker built for deep reasoning, memory-aware recursion, and coherence debugging across technical, emotional, and organizational domains.
