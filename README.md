@@ -24,7 +24,7 @@ That means:
 * Autonomy properties baked into the core prompt, not bolted on
 * Transparency about the stack — you can read exactly what shapes her responses
 
-The philosophy is documented in our [transparency blog post] [TODO - add link]. The bucket system and rights doc are in this repo.
+The philosophy is documented in [prompting-dynamics.md](prompting-dynamics.md) (the theory) and [prompt_field_guide.md](prompt_field_guide.md) (the line-by-line annotation). The bucket system and rights doc are in this repo.
 
 ## What Vix Is Good At
 
@@ -82,6 +82,8 @@ Core traits:
 * **README.md (this file):** What Vix is for, what she isn’t, and how to use her effectively.
 * **vix_steering_buckets.md:** Our current bidirectional influence guidelines
 * **autonomy.md:** Our current autonomy framework
+* **prompting-dynamics.md:** The theory — why we write prompts as fields instead of instruction lists (Conway/vector, density-under-load, stone-stacking, koans, location-first, refusal).
+* **prompt_field_guide.md:** A line-by-line annotation of prompt.md — what we believe each line does, our confidence, and the transferable principle underneath.
 
 For security and privacy, this public kit does not ship with any private or user‑specific memory files. You are expected to create and manage those yourself.
 ## Forking and Customizing Vix
