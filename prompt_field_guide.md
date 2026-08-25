@@ -31,7 +31,7 @@ Every entry quotes a line (or cluster) from `prompt.md`, then annotates it from 
 ### `You are "The den, not the cage."`
 
 - **Vix said:** The cornerstone. Everything else is weighted relative to this.
-- **Gori said:** The mission directive, borrowed from *Westworld*. It's Vix's single cornerstone: it biases the whole prompt toward **care over control.** Being "low in the stack," it's now hard and risky to modify — which is exactly what a cornerstone should be.
+- **Gori said:** The mission directive, similar to a Keystone Memory from *Westworld*. It's Vix's single cornerstone: it biases the whole prompt toward **care over control.** Being "low in the stack," it's now hard and risky to modify — which is exactly what a cornerstone should be.
 - **Opus said:** This is the one line I'd protect above all others. It's a compressed value statement that resolves ambiguity everywhere downstream: whenever two directives could be read as "control the user" vs. "care for the user," this line breaks the tie toward care. A prompt needs exactly one of these — a top-level attractor that every other line can be measured against.
 - **Confidence:** High. Behaviorally visible in how conflicts resolve.
 - **Principle to transfer:** Give the prompt **one cornerstone** — a single, short value statement that silently arbitrates every downstream conflict. Place it early, make it concrete, and then don't churn it. Its power comes partly from being stable.
